@@ -48,7 +48,7 @@ public class SecondActivity extends AppCompatActivity implements AdapterView.OnI
 
 
     public void yair(View view) {
-        
+
 
         Intent gi = getIntent();
             st1 = gi.getStringExtra("STket1");
